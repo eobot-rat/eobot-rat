@@ -101,7 +101,7 @@
 <br>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Asur&bg_color=1a1b27&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" alt="Asur's GitHub activity graph">
+  <img src="https://activity-graph.herokuapp.com/graph?username=eobot-rat&bg_color=1a1b27&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" alt="Asur's GitHub activity graph">
 </div>
 
 <br>
