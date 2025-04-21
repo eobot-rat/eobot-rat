@@ -1,3 +1,23 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=800000&height=200&section=header&text=ASUR&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MALWARE%20DEVELOPER&descAlignY=58&descAlign=50">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=ASUR&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MALWARE%20DEVELOPER&descAlignY=58&descAlign=50">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=ASUR&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MALWARE%20DEVELOPER&descAlignY=58&descAlign=50" width="100%">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Malware_Development-red?style=for-the-badge&logo=target&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Active_Threat-red?style=for-the-badge&logo=bitwarden&logoColor=white">
+  <img src="https://img.shields.io/badge/Experience-Advanced-red?style=for-the-badge&logo=expertsexchange&logoColor=white">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Asur&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies">
+</div>
+
 <h1 align="center">⚠️ ASUR ⚠️</h1>
 
 <div align="center">
@@ -76,6 +96,18 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asur&theme=radical&hide_border=true" alt="GitHub streak stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Asur&bg_color=1a1b27&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" alt="Asur's GitHub activity graph">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer&text=Use%20At%20Your%20Own%20Risk&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%">
 </div>
 
 <p align="center"><i>⚠️ All malware development is conducted in isolated environments for research, education, and defensive purposes only. ⚠️</i></p> 
